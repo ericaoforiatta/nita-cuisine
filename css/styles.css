@@ -7,14 +7,31 @@ background-size: cover;
 font-family: 'Cormorant Garamond', serif;
 font-style: light;
 color: white;
+padding-top: 25px;
+
       }
 .emphasize{
   font-weight: bold;
 }
+
 #fast-food{
   text-align: left;
   float: right;
 }
 #drinks{
   float: left;
+}
+.happyhour{
+  background-color: blue;
+  background-size: contain;
+}
+.partytime{
+  background-color: black;
+}
+#drink2
+{
+  padding-left: none;
+}
+p#drinkscolumn{
+  width: 20px
 }
