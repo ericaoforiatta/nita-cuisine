@@ -15,13 +15,12 @@
     ## Technologies Used
 
     HTML, CSS, BOOTSRAP were used to write and style the code for this website.
-
-  ## Support and contact details
+## Support and contact details
 
     please contact me on any issues or questions, ideas or concerns. I am open to contributions to the code
     erica.oforiatta@gmail.com
 
-    ### License
+### License
 
     _open source_
 
